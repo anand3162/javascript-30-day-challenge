@@ -1,3 +1,6 @@
+// Day 02 – Personal Bio Card
+// Prints a short bio using variables of different types and logs each variable's type.
+
 const fullName = "Anand Krishna";
 const age = 22;
 let city = "Toronto";
