@@ -2,14 +2,12 @@
 
 I'm a student at Seneca Polytechnic learning JavaScript fundamentals, one small project per day.
 
-I'm following the free [Learn JavaScript in 30 Days](https://github.com/hassanireza/learnJavascript) course. I write the code myself and use AI only for hints and code review.
-
+I'm following the free [Learn JavaScript in 30 Days](https://github.com/hassanireza/learnJavascript) course. 
 ## Structure
 
 Each day has its own folder:
 
 - `script.js`: the project
-- `practice.js`: my experiments from the lesson
 - `README.md`: the task, what I learned, and what confused me
 
 ## How to run
